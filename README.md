@@ -56,9 +56,33 @@ Phase 3: Design and development:
 - Reviewing design and making changes based on client’s approval.
  
 
-### 3. Finalization
+### 3. Launching
 - Test the Website or Web Application:
   - It's important to test your website or web application for bugs and usability issues.
 - Deploy to a Production Environment.
-- Maintenance.
-- Optimization.
+  
+### 4. Next
+- Keep Working on SEO.
+  - You need to make sure that all of your basic SEO elements are in place, from title tags to keywords in your content. Even if you’ve taken care of all the basics, there’s still plenty to do.
+- Set Up Analytics.
+  - You can keep track of how many visitors you get, where they come from, how long they stay on your site, and which pages they visit.
+  - Connecting your site to Google Analytics should be one of the first things that you do after you launch your site, or preferably before.
+- Set Up Google Search Console.
+  - It helps you to “monitor, maintain, and troubleshoot your site’s presence in Google Search results”
+- Make Sure Your Site Is Running Quickly.
+  - Promoting your site is a must, once you have launched it. One of the things you can do to promote yourself and grow your online presence is to get on social media.
+- Build Your Social Media Presence.
+  - Promoting your site is a must, once you have launched it. One of the things you can do to promote yourself and grow your online presence is to get on social media.
+- Set Up Some PPC Ads.
+  - While organic SEO and social media will help you, it can be a slow process to produce any results from them.
+  - PPC advertising can get you immediate results and it’s pretty easy to set up.
+  - Google Ads is one of the most popular options, but there are other platforms that use the PPC (pay-per-click) model, such as Facebook Ads.
+- Create a Content Marketing Plan.
+  - Having good content on your website means you can share it on social media.
+  - Your content marketing ties into several other forms of marketing, including SEO, social media marketing, PR, and PPC advertising.
+- Check the Security.
+  - If your site isn’t secure, it will put people off and affect your search engine results too.
+- Start a Newsletter.
+  - Email marketing is a great way to get people to keep coming back to your site.
+- Maintain Your Site.
+  - It’s essential to stay on top of maintenance tasks such as security updates and dealing with any errors.
