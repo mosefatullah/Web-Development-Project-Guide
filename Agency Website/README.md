@@ -1,1 +1,24 @@
-
+## Features
+- Examples of Your Work
+- Easy Navigation
+  - Top Navigation:
+    - Product/services
+    - Examples of work
+    - Resources
+    - About section
+  - Bottom Navigation:
+    - Contact information
+    - Career opportunities
+    - Blog
+- About-Us Page
+  - Tell the story about how you started your agency
+  - Explain your business to prospects in a few paragraphs
+  - Express your agency’s core values
+  - Clearly state your unique value proposition
+  - Show the faces behind your company
+  - Use persuasive copy that appeals to your prospects’ emotions
+- Comprehensive Case Studies
+  - [Case study questions](https://www.benchmarkemail.com/blog/case-study-questions/)
+- A Helpful Blog
+- Compact Contact Section
+- Website Forms and Landing Pages (email marketing, a place to direct people to download valuable resources, like guides, eBooks, or whitepapers)
