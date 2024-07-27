@@ -87,5 +87,18 @@ Phase 3: Design and Development:
 - Maintain Your Site.
   - It’s essential to stay on top of maintenance tasks such as security updates and dealing with any errors.
  
+## What Makes a Good Website: Factors to Consider
+### 1. Design
+- Apply Engaging Color Schemes
+  - (Color theory)[https://govisually.com/blog/color-theory-and-color-palettes/]
+- Choose the Right Fonts
+  - (Web-safe fonts)[https://www.hostinger.com/tutorials/best-html-web-fonts]
+- Create a Clear Visual Hierarchy
+  - (Whitespace principles)[https://xd.adobe.com/ideas/principles/web-design/what-is-white-space-in-design/]
+  - For example, (neuralink website)[https://neuralink.com/]
+- Consider Web Accessibility
+  - (Guides)[https://www.hostinger.com/tutorials/web-accessibility]
+### 2. Functionality
+ 
 ## Website Category
 - 
