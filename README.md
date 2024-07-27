@@ -17,4 +17,6 @@ Information &amp; Guides about Web Development Project - Collection from Interne
   - It's time to design and represent visually, but not coding.
 - Plan your code:
   - Have a clear understanding of how the different pieces of your project will fit together and others (eg. database).
-- 
+- Develop and Test the Website or Web Application:
+  - Once you start coding, it's important to test your website or web application for bugs and usability issues.
+- Deploy to a Production Environment.
