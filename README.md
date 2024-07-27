@@ -90,15 +90,37 @@ Phase 3: Design and Development:
 ## What Makes a Good Website: Factors to Consider
 ### 1. Design
 - Apply Engaging Color Schemes
-  - (Color theory)[https://govisually.com/blog/color-theory-and-color-palettes/]
+  - [Color theory](https://govisually.com/blog/color-theory-and-color-palettes/)
 - Choose the Right Fonts
-  - (Web-safe fonts)[https://www.hostinger.com/tutorials/best-html-web-fonts]
+  - [Web-safe fonts](https://www.hostinger.com/tutorials/best-html-web-fonts)
 - Create a Clear Visual Hierarchy
-  - (Whitespace principles)[https://xd.adobe.com/ideas/principles/web-design/what-is-white-space-in-design/]
-  - For example, (neuralink website)[https://neuralink.com/]
+  - [Whitespace principles](https://xd.adobe.com/ideas/principles/web-design/what-is-white-space-in-design/)
+  - For example, [neuralink website](https://neuralink.com/)
 - Consider Web Accessibility
-  - (Guides)[https://www.hostinger.com/tutorials/web-accessibility]
+  - [Guides](https://www.hostinger.com/tutorials/web-accessibility)
+
 ### 2. Functionality
+- Each website serves a different purpose. See <a href="#website-category">website category</a>.
+- [19 Best Information Websites For Inspiration in 2024](https://www.hostinger.com/tutorials/information-websites)
+
+### 3. Features
+- Clear and attention-grabbing headline.
+- Hero image or video.
+- Navigation menu.
+- Call-to-action (CTA) buttons.
+- Social proof (eg. customer testimonials or partner badges).
+- Clear and concise content.
+- Images and videos.
+
+### 4. SEO
+- Keyword research.
+- Technical optimization.
+- Create quality backlinks.
+- Content optimization.
+
+### 5. User Experience
+- [Web design principles](https://www.hostinger.com/tutorials/web-design-principles)
+- Amazon‘s website is a great example of using UX design to guide customers to purchase a product.
  
 ## Website Category
 - 
