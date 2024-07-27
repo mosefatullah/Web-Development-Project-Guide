@@ -65,3 +65,4 @@ Phase 3: Design and development
 - Test the Website or Web Application:
   - It's important to test your website or web application for bugs and usability issues.
 - Deploy to a Production Environment.
+- Maintenance.
