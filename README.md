@@ -11,5 +11,5 @@ Information &amp; Guides about Web Development Project - Collection from Interne
   - Who are you building this for?
   - What do they need from your website or web application?
 - Choose a Suitable Technology Stack:
-  - Database, Back-end Framework, Front-end Framework, Back-end Language etc.
+  - Web Applcation: Database, Back-end Framework, Front-end Framework, Back-end Language etc.
   - Additionally, we may need a library for a specific task.
