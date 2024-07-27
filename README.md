@@ -5,7 +5,7 @@ Information &amp; Guides about Web Development Project - Collection from Interne
 ## Steps of a Project
 ### 1. Planning
 
-Phase 1: Client collaboration (optional)
+Phase 1: Client Collaboration (optional)
 - What type of website is required?
 - Who is the target audience?
 - How many web pages are required?
@@ -34,7 +34,7 @@ Phase 3: Information Gathering
   - Additionally, we may need a library for a specific task.
  
 ### 2. Design & Development
-Phase 1: Branding, infrastructure and layout:
+Phase 1: Branding, Infrastructure and Layout:
 - Define the website name and tagline.
 - Conclude logo, color palette, fonts, and page layouts.
 - Buying a domain name or hosting service.
@@ -46,7 +46,7 @@ Phase 2: Content:
 - Organize content in a content repository.
 - Proofread and finalize content.
 
-Phase 3: Design and development:
+Phase 3: Design and Development:
 - Setting up a sandbox server or coding environment (eg. visual studio code).
 - Web pages designing based on layout styles and content.
 - Designing page elements such as buttons, CTAs, and testimonials.
