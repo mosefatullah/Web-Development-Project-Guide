@@ -86,3 +86,6 @@ Phase 3: Design and Development:
   - Email marketing is a great way to get people to keep coming back to your site.
 - Maintain Your Site.
   - It’s essential to stay on top of maintenance tasks such as security updates and dealing with any errors.
+ 
+## Website Category
+- 
