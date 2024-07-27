@@ -123,4 +123,30 @@ Phase 3: Design and Development:
 - Amazon‘s website is a great example of using UX design to guide customers to purchase a product.
  
 ## Website Category
-- 
+- Ecommerce website 
+- Business website
+- Blog website
+- Portfolio website
+- Event website
+- Personal website
+- Membership website
+- Nonprofit website
+- Informational website
+- Online forum
+- Community website
+- Startup website
+- Consulting website
+- Booking website
+- Petition website
+- School website
+- Hobby website
+- Interactive website
+- Entertainment website
+- Wedding website
+- Travel website
+- Directory website
+- Landing page website
+- News and magazine website
+- Memorial website
+- Subscription website
+- Kid-friendly website
