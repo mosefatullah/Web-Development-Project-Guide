@@ -33,7 +33,7 @@ Phase 3: Information Gathering
   - Web Applcation: Database, Back-end Framework, Front-end Framework, Back-end Language etc.
   - Additionally, we may need a library for a specific task.
  
-### 2. Designing
+### 2. Design & Development
 Phase 1: Branding, infrastructure and layout:
 - Define the website name and tagline.
 - Conclude logo, color palette, fonts, and page layouts.
@@ -56,8 +56,9 @@ Phase 3: Design and development:
 - Reviewing design and making changes based on client’s approval.
  
 
-### 3. Optimization
+### 3. Finalization
 - Test the Website or Web Application:
   - It's important to test your website or web application for bugs and usability issues.
 - Deploy to a Production Environment.
 - Maintenance.
+- Optimization.
