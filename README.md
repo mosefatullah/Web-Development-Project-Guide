@@ -2,7 +2,7 @@
 Information &amp; Guides about Web Development Project - Collection from Internet
 
 
-## Steps of A Project
+## Steps of a Project
 ### 1. Planning
 - Define the Project Scope and Goals:
   - What is the purpose of your website or web application?
@@ -10,4 +10,6 @@ Information &amp; Guides about Web Development Project - Collection from Interne
 - Identify the Target Audience and Their Needs:
   - Who are you building this for?
   - What do they need from your website or web application?
-- 
+- Choose a Suitable Technology Stack:
+  - Database, Back-end Framework, Front-end Framework, Back-end Language etc.
+  - Additionally, we may need a library for a specific task.
