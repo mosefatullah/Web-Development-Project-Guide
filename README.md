@@ -139,6 +139,7 @@ Phase 3: Design and Development:
 
 #### Others
 - Business website
+- Agency website
 - Event website
 - Membership website
 - Nonprofit website
