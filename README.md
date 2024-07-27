@@ -5,7 +5,7 @@ Information &amp; Guides about Web Development Project - Collection from Interne
 ## Steps of a Project
 ### 1. Planning
 
-Phase 1: Client collaboration
+Phase 1: Client collaboration (optional)
 - What type of website is required?
 - Who is the target audience?
 - How many web pages are required?
@@ -15,14 +15,14 @@ Phase 1: Client collaboration
 - What’s the web development budget?
 - Which third-party integrations are required?
 
-Phase 2: Team Discussion
+Phase 2: Team Discussion (optional)
 - What needs to be done for the client?
 - How does the project break down into tasks?
 - Which team member will perform which task?
 - How much of the client’s budget will the web development project require?
 - Where are the dependencies in the project?
 
-Phase 3: Finalization
+Phase 3: Information Gathering
 - Define the Project Scope and Goals:
   - What is the purpose of your website or web application?
   - What core functionality do you need to build in order to achieve your goals?
@@ -34,31 +34,26 @@ Phase 3: Finalization
   - Additionally, we may need a library for a specific task.
  
 ### 2. Designing
-Phase 1: Branding, infrastructure and layout
-- Define the website name and tagline
-- Conclude logo, color palette, fonts, and page layouts
-- Buying a domain name or hosting service
-- Build a sitemap to display web pages and their relations
+Phase 1: Branding, infrastructure and layout:
+- Define the website name and tagline.
+- Conclude logo, color palette, fonts, and page layouts.
+- Buying a domain name or hosting service.
+- Build a sitemap to display web pages and their relations.
 
-Phase 2: Content
-- Identify content needed for web pages, testimonials, privacy policy, terms of use, FAQs, etc.
-- Arrange stock images and graphics
-- Organize content in a content repository
-- Proofread and finalize content
+Phase 2: Content:
+- Identify content needed for web pages, testimonials, privacy policy, terms of use, FAQs etc.
+- Arrange stock images and graphics.
+- Organize content in a content repository.
+- Proofread and finalize content.
 
-Phase 3: Design and development
-- Web pages designing based on layout styles and content
+Phase 3: Design and development:
 - Setting up a sandbox server or coding environment (eg. visual studio code).
+- Web pages designing based on layout styles and content.
 - Designing page elements such as buttons, CTAs, and testimonials.
-- HTML, CSS, and Javascript authentication.
-- Developing functionalities like a blog, ecommerce store, or content management system.
+- Designing and writing back-end (database design, API development etc.).
+- Developing functionalities like a blog, payment system or content management system.
 - Organizing web pages based on the sitemap
 - Reviewing design and making changes based on client’s approval.
-
-- Design the User Interface and User Experience:
-  - It's time to design and represent visually, but not coding.
-- Plan your code:
-  - Have a clear understanding of how the different pieces of your project will fit together and others (eg. database).
  
 
 ### 3. Optimization
