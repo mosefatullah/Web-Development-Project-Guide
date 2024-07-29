@@ -6,3 +6,5 @@
 4. https://www.npmjs.com/package/react-scroll
 5. https://www.npmjs.com/package/typewriter-effect
 6. https://maath.pmnd.rs/
+7. https://www.npmjs.com/package/react-vertical-timeline-component
+8. https://react-icons.github.io/react-icons/
