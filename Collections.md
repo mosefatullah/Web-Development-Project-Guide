@@ -10,3 +10,7 @@
 8. https://react-icons.github.io/react-icons/
 9. https://docs.pmnd.rs/react-three-fiber/getting-started/introduction + https://github.com/pmndrs/drei#readme
 10. https://styled-components.com/
+
+## Free Components
+1. https://mui.com/
+2. https://flowbite.com/
