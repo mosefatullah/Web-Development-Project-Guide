@@ -11,6 +11,7 @@
 9. https://react-icons.github.io/react-icons/
 10. https://docs.pmnd.rs/react-three-fiber/getting-started/introduction + https://github.com/pmndrs/drei#readme
 11. https://styled-components.com/
+12. https://www.npmjs.com/package/react-medium-image-zoom
 
 ## Free Components
 1. https://mui.com/
